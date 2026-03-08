@@ -1,5 +1,7 @@
 .venv/
 wandb.txt
+kaggle.txt
+kaggle.json
 data/*.csv
 __pycache__/
 .DS_Store

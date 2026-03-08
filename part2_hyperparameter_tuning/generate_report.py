@@ -237,7 +237,7 @@ def build_report():
     pdf.body_text(
         "The submission.csv file was generated using the best model parameters and "
         "uploaded to the Kaggle competition.\n\n"
-        "Kaggle Public Leaderboard Score: TODO - paste score after uploading to Kaggle\n\n"
+        "Kaggle Public Leaderboard Score: 0.13881 (RMSE)\n\n"
         "The submission contains 1,459 predictions (Id range 1461-2919) with all "
         "prices > 0."
     )
