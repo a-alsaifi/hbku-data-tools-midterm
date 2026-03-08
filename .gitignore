@@ -1,0 +1,9 @@
+.venv/
+wandb.txt
+data/*.csv
+__pycache__/
+.DS_Store
+wandb/
+*.zip
+.claude/
+.ipynb_checkpoints/
